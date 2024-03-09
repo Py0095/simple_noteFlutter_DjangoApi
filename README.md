@@ -1,1 +1,1 @@
-# simple_noteFlutter_DjangoApi
+# simple_note_app_Flutter_DjangoApi
